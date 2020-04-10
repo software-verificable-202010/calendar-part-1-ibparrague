@@ -1,0 +1,14 @@
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\bin\Debug\Proyecto 1 Software Verificable.exe.config
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\bin\Debug\Proyecto 1 Software Verificable.exe
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\bin\Debug\Proyecto 1 Software Verificable.pdb
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto 1 Software Verificable.csprojAssemblyReference.cache
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\MainWindow.g.cs
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\App.g.cs
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto 1 Software Verificable_MarkupCompile.cache
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto 1 Software Verificable_MarkupCompile.lref
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\MainWindow.baml
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto 1 Software Verificable.g.resources
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto_1_Software_Verificable.Properties.Resources.resources
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto 1 Software Verificable.csproj.GenerateResource.cache
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto 1 Software Verificable.exe
+C:\Users\ignap\source\repos\Proyecto 1 Software Verificable\Proyecto 1 Software Verificable\obj\Debug\Proyecto 1 Software Verificable.pdb

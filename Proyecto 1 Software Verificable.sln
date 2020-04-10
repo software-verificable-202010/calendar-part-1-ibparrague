@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto 1 Software Verificable", "Proyecto 1 Software Verificable\Proyecto 1 Software Verificable.csproj", "{A52964D1-4AB1-42C1-B228-83C02E894D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A52964D1-4AB1-42C1-B228-83C02E894D9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52964D1-4AB1-42C1-B228-83C02E894D9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52964D1-4AB1-42C1-B228-83C02E894D9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52964D1-4AB1-42C1-B228-83C02E894D9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FF03921-A16E-47B7-A9FC-B971517FE1B8}
+	EndGlobalSection
+EndGlobal
